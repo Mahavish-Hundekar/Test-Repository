@@ -1,5 +1,11 @@
 .vs/
 bin/
 obj/
+<<<<<<< HEAD
 *.suo
 *.user
+=======
+*.user
+*.suo
+*.cache
+>>>>>>> 0ef7ab7f4ef1003900307c2bd54c6c0e7e18ca62

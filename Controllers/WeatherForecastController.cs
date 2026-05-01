@@ -1,6 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 
+<<<<<<< HEAD
 namespace MyApi.Controllers
+=======
+namespace GroceryApi.Controllers
+>>>>>>> 0ef7ab7f4ef1003900307c2bd54c6c0e7e18ca62
 {
     [ApiController]
     [Route("[controller]")]
